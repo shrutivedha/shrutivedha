@@ -51,7 +51,7 @@
 - 🧪 Ran **uplift testing** across 3 trial stores — all outperformed controls!
 - 📊 Delivered executive report using the **Pyramid Principle**
 
-`Python` `Pandas` `Hypothesis Testing` `Data Visualisation` `PowerPoint`
+`Python` `Pandas` `Data Visualisation` `PowerPoint`
 
 [🔗 View Project](https://github.com/shrutivedha/data_analytics_portfolio/tree/main/Quantium/Chips_report)
 
