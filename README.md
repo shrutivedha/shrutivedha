@@ -18,7 +18,7 @@
 🟢 Available to join IMMEDIATELY
 💡 I turn raw data into clear business insights
 📝 I write about data on Medium
-🌱 Currently building: Olist E-Commerce Tableau Dashboard
+🌱 Currently an Intern at: Zetheta
 ```
 
 ---
