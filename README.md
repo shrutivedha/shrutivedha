@@ -3,7 +3,7 @@
 # Hey there! I'm Shruti Vedha 👋✨
 
 ### 📊 Data Analyst |  Python |  SQL |  Tableau
-### **Entry Level / Junior / Fresher Data Analyst Roles** | **Immediate Joiner** 🟢
+### ** Looking For Entry Level / Junior / Fresher Data Analyst Roles** | **Immediate Joiner** 🟢
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Immediate+Joiner+%F0%9F%9F%A2;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
 
