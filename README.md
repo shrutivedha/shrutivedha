@@ -2,7 +2,7 @@
 
 # Hey there! I'm Shruti Vedha 👋✨
 
-### 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Tableau
+### 📊 Data Analyst |  Python |  SQL |  Tableau
 ### **Entry Level / Junior / Fresher Data Analyst Roles** | **Immediate Joiner** 🟢
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Immediate+Joiner+%F0%9F%9F%A2;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
@@ -46,6 +46,15 @@
 ### Youtube Channel Growth analysis 
 > End-to-end Youtube channel metrics analysis for better channel growth
 
+- 📊Analyzed 460 videos and 6.3M lifetime views from personal YouTube channel to diagnose a 0.06% subscriber conversion rate — 20x below industry benchmark
+- Built correlation heatmap across 16 metrics revealing CTR had near-zero relationship (0.14) with views, disproving assumed growth drivers and identifying mixed content identity as root cause
+- Designed interactive Tableau dashboard with 4 charts and implemented data-driven content strategy shifting channel to focused food-only direction
+
+`Data Extraction` `Data cleaning` `Data visualization` `Data exploration(EDA)` `Data Analysis` `Pandas` `Python` `Tableau` `GitBash`
+
+[View project](https://github.com/shrutivedha/Healthierecipes24_youtube_channel_analysis)
+
+
 ### 🛒 Quantium Data Analytics — Retail Strategy
 > End-to-end retail analytics for a chip category manager
 
@@ -54,9 +63,9 @@
 - 🧪 Ran **uplift testing** across 3 trial stores — all outperformed controls!
 - 📊 Delivered executive report using the **Pyramid Principle**
 
-`Python` `Pandas` `Data Visualisation` `PowerPoint`
+`Python` `Pandas` `Data Visualisation` `PowerPoint` `Data cleaning` `EDA` `Microsoft Excel` `Gitbash` `Data Extraction`
 
-[🔗 View Project](https://github.com/shrutivedha/data_analytics_portfolio/tree/main/Quantium/Chips_report)
+[View Project](https://github.com/shrutivedha/data_analytics_portfolio/tree/main/Quantium/Chips_report)
 
 ---
 
@@ -64,10 +73,10 @@
 
 | 🏅 Certificate | 🔗 Link |
 |---|---|
-| 🟡 HackerRank — SQL | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
-| 🟡 HackerRank — Python | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
-| 📊 Quantium Data Analytics — Forage | [View Certificate](https://github.com/shrutivedha/data_analytics_portfolio/tree/main/Quantium/Chips_report)|
-
+| 🟡 HackerRank - SQL | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
+| 🟡 HackerRank - Python | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
+| 📊 Quantium Data Analytics - Forage | [View Certificate](https://github.com/shrutivedha/data_analytics_portfolio/tree/main/Quantium/Chips_report)|
+| ▶️ Youtube Channel Growth analysis - Own dataset | [view project](https://github.com/shrutivedha/Healthierecipes24_youtube_channel_analysis)
 ---
 
 ## ✍️ Latest Medium Blogs
