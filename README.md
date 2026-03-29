@@ -43,6 +43,9 @@
 
 ## 🚀 Featured Projects
 
+### Youtube Channel Growth analysis 
+> End-to-end Youtube channel metrics analysis for better channel growth
+
 ### 🛒 Quantium Data Analytics — Retail Strategy
 > End-to-end retail analytics for a chip category manager
 
