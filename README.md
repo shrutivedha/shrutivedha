@@ -69,7 +69,7 @@
 
 ---
 
-## 📜 Certifications & Scores
+## 📜 Certifications | Badges
 
 | 🏅 Certificate | 🔗 Link |
 |---|---|
