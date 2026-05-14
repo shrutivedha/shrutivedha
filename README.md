@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hey there! I'm Shruti Vedha 👋✨
+# Hey there! I'm Shruti Vedha✨
 
 ### 📊 Data Analyst |  Python |  SQL |  Tableau
-### ** Looking For Entry Level / Junior / Fresher Data Analyst Roles** | **Immediate Joiner** 🟢
+### ** Looking For Entry Level / Junior / Fresher Data Analyst Roles** | **Immediate Joiner** 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Immediate+Joiner+%F0%9F%9F%A2;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
 
@@ -11,19 +11,19 @@
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me
 ```
-🎓 Fresher Data Analyst — ready to make an impact from Day 1
-📍 Based in India | Open to relocate 
-🟢 Available to join IMMEDIATELY
-💡 I turn raw data into clear business insights
-📝 I write about data on Medium
-🌱 Currently an Intern at: Zetheta
+ Fresher Data Analyst — ready to make an impact from Day 1
+ Based in India | Open to relocate 
+ Available to join IMMEDIATELY
+ I turn raw data into clear business insights
+ I write about data on Medium
+ Currently an Intern at: Zetheta
 ```
 
 ---
 
-## 🛠️ My Toolkit
+##  My Toolkit
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Youtube Channel Growth analysis 
 > End-to-end Youtube channel metrics analysis for better channel growth
@@ -55,13 +55,13 @@
 [View project](https://github.com/shrutivedha/Healthierecipes24_youtube_channel_analysis)
 
 
-### 🛒 Quantium Data Analytics — Retail Strategy
+###  Quantium Data Analytics — Retail Strategy
 > End-to-end retail analytics for a chip category manager
 
-- 🔍 Cleaned & analysed **500K+ transaction records** using Python & Pandas
-- 🏆 Found **Kettle** as market leader; **Older Singles/Couples** as top buyers
-- 🧪 Ran **uplift testing** across 3 trial stores — all outperformed controls!
-- 📊 Delivered executive report using the **Pyramid Principle**
+-  Cleaned & analysed **500K+ transaction records** using Python & Pandas
+-  Found **Kettle** as market leader; **Older Singles/Couples** as top buyers
+-  Ran **uplift testing** across 3 trial stores — all outperformed controls!
+-  Delivered executive report using the **Pyramid Principle**
 
 `Python` `Pandas` `Data Visualisation` `PowerPoint` `Data cleaning` `EDA` `Microsoft Excel` `Gitbash` `Data Extraction`
 
@@ -71,23 +71,23 @@
 
 ## 📜 Certifications | Badges
 
-| 🏅 Certificate | 🔗 Link |
+|  Certificate |  Link |
 |---|---|
-| 🟡 HackerRank - SQL | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
-| 🟡 HackerRank - Python | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
-| 📊 Quantium Data Analytics - Forage | [View Certificate](https://github.com/shrutivedha/data_analytics_portfolio/tree/main/Quantium/Chips_report)|
-| ▶️ Youtube Channel Growth analysis - Own dataset | [view project](https://github.com/shrutivedha/Healthierecipes24_youtube_channel_analysis)
+|  HackerRank - SQL | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
+|  HackerRank - Python | [View Badge](https://www.hackerrank.com/profile/Shruti_nd) |
+|  Quantium Data Analytics - Forage | [View Certificate](https://github.com/shrutivedha/data_analytics_portfolio/tree/main/Quantium/Chips_report)|
+|  Youtube Channel Growth analysis - Own dataset | [view project](https://github.com/shrutivedha/Healthierecipes24_youtube_channel_analysis)
 ---
 
-## ✍️ Latest Medium Blogs
+##  Latest Medium Blogs
 
-> 💬 *I write about data analytics, Python tips & my learning journey*
+>  *I write about data analytics, Python tips & my learning journey*
 
-👉 **[Read all my articles →](https://medium.com/@shruti204)**
+ **[Read all my articles →](https://medium.com/@shruti204)**
 
 ---
 
-## 📬 Find Me Here
+##  Find Me Here
 
 <div align="center">
 
@@ -101,9 +101,9 @@
 
 <div align="center">
 
-### 💼 Actively Looking For:
-**Entry Level / Junior / Fresher Data Analyst Roles** | **Immediate Joiner** 🟢
+###  Actively Looking For:
+**Entry Level / Junior / Fresher Data Analyst Roles** | **Immediate Joiner** 
 
-⭐ *If my work resonates with you — let's connect!* ⭐
+ *If my work resonates with you — let's connect!* 
 
 </div>
